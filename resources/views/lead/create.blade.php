@@ -11,7 +11,6 @@
             <label for="first_name" class="form-label">Имя</label>
             <input type="text" class="form-control" id="first_name" name="first_name" required>
         </div>
-        <!-- Добавьте остальные поля аналогично -->
         <button type="submit" class="btn btn-primary">Создать</button>
     </form>
 </div>
